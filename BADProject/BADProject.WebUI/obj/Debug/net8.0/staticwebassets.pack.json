@@ -1,0 +1,457 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BADProject.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BADProject.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\1fe17e4a-f990-48b0-acc4-98d65a8be465.png",
+      "PackagePath": "staticwebassets\\Images\\1fe17e4a-f990-48b0-acc4-98d65a8be465.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\39c7aa44-61f0-481a-bdef-318db4751f22.png",
+      "PackagePath": "staticwebassets\\Images\\39c7aa44-61f0-481a-bdef-318db4751f22.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\3cbe4be7-8aa9-444b-aee8-51572f783d33.png",
+      "PackagePath": "staticwebassets\\Images\\3cbe4be7-8aa9-444b-aee8-51572f783d33.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\3e63125e-8d12-4573-9589-8b81d6b409ea.png",
+      "PackagePath": "staticwebassets\\Images\\3e63125e-8d12-4573-9589-8b81d6b409ea.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\516a7f88-06ed-4eed-861d-1604a1757332.png",
+      "PackagePath": "staticwebassets\\Images\\516a7f88-06ed-4eed-861d-1604a1757332.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\531188cf-1449-4156-8688-9688a06b948a.png",
+      "PackagePath": "staticwebassets\\Images\\531188cf-1449-4156-8688-9688a06b948a.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\552ab6c6-323c-4bd9-a87e-7c6c4071704e.png",
+      "PackagePath": "staticwebassets\\Images\\552ab6c6-323c-4bd9-a87e-7c6c4071704e.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\55d6bdd4-49e2-4ff5-974a-389eb042b419.png",
+      "PackagePath": "staticwebassets\\Images\\55d6bdd4-49e2-4ff5-974a-389eb042b419.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\5d5912d6-17ad-440a-aabc-c85582cb0ddf.png",
+      "PackagePath": "staticwebassets\\Images\\5d5912d6-17ad-440a-aabc-c85582cb0ddf.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\7760f80a-e1d8-4091-963c-10d3cff560af.png",
+      "PackagePath": "staticwebassets\\Images\\7760f80a-e1d8-4091-963c-10d3cff560af.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\817cc818-b005-45e7-92fa-18049e07eff2.png",
+      "PackagePath": "staticwebassets\\Images\\817cc818-b005-45e7-92fa-18049e07eff2.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\8f88f94f-c7cf-4109-b900-7f66b20aaa15.png",
+      "PackagePath": "staticwebassets\\Images\\8f88f94f-c7cf-4109-b900-7f66b20aaa15.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\8fed280f-c1c2-47d3-984c-9d718ba47d97.png",
+      "PackagePath": "staticwebassets\\Images\\8fed280f-c1c2-47d3-984c-9d718ba47d97.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\91770645-9f9e-4801-afd9-04e107b51c27.png",
+      "PackagePath": "staticwebassets\\Images\\91770645-9f9e-4801-afd9-04e107b51c27.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\93406699-d5c4-43f1-a617-b4e719a67501.png",
+      "PackagePath": "staticwebassets\\Images\\93406699-d5c4-43f1-a617-b4e719a67501.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\9ca9562a-3bc2-4b88-8b00-577d2754326b.png",
+      "PackagePath": "staticwebassets\\Images\\9ca9562a-3bc2-4b88-8b00-577d2754326b.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\9cc51e2c-b414-4aa1-b72d-d670fdb0041f.png",
+      "PackagePath": "staticwebassets\\Images\\9cc51e2c-b414-4aa1-b72d-d670fdb0041f.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\9e472c2c-c0bd-4e9b-9041-f8a33162ea0b.png",
+      "PackagePath": "staticwebassets\\Images\\9e472c2c-c0bd-4e9b-9041-f8a33162ea0b.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\AttackOnTitan.jpg",
+      "PackagePath": "staticwebassets\\Images\\AttackOnTitan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\Clanned.jpg",
+      "PackagePath": "staticwebassets\\Images\\Clanned.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\CowboyBebop.jpg",
+      "PackagePath": "staticwebassets\\Images\\CowboyBebop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\DeathNote.jpg",
+      "PackagePath": "staticwebassets\\Images\\DeathNote.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\DemonSlayer.jpg",
+      "PackagePath": "staticwebassets\\Images\\DemonSlayer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\FullMetalAlchemist.jpg",
+      "PackagePath": "staticwebassets\\Images\\FullMetalAlchemist.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\Gintama.jpg",
+      "PackagePath": "staticwebassets\\Images\\Gintama.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\Haikyuu.jpg",
+      "PackagePath": "staticwebassets\\Images\\Haikyuu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\HunterXHunter.jpg",
+      "PackagePath": "staticwebassets\\Images\\HunterXHunter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\MadeInAbyss.jpg",
+      "PackagePath": "staticwebassets\\Images\\MadeInAbyss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\MyHeroAcademia.jpg",
+      "PackagePath": "staticwebassets\\Images\\MyHeroAcademia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\Naruto.jpg",
+      "PackagePath": "staticwebassets\\Images\\Naruto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\NeonGenesisEvangelion.jpg",
+      "PackagePath": "staticwebassets\\Images\\NeonGenesisEvangelion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\OnePiece.jpg",
+      "PackagePath": "staticwebassets\\Images\\OnePiece.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\PsychoPass.jpg",
+      "PackagePath": "staticwebassets\\Images\\PsychoPass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\SamuraiChamploo.jpg",
+      "PackagePath": "staticwebassets\\Images\\SamuraiChamploo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\SpiritedAway.jpg",
+      "PackagePath": "staticwebassets\\Images\\SpiritedAway.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\SteinsGate.jpg",
+      "PackagePath": "staticwebassets\\Images\\SteinsGate.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\TokyoGhoul.jpg",
+      "PackagePath": "staticwebassets\\Images\\TokyoGhoul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\YourName.jpg",
+      "PackagePath": "staticwebassets\\Images\\YourName.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\aad9a152-acfd-4e28-ad4c-01e815305e31.png",
+      "PackagePath": "staticwebassets\\Images\\aad9a152-acfd-4e28-ad4c-01e815305e31.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\b3afbfa2-04d6-46e7-b5f6-abdafce3c592.png",
+      "PackagePath": "staticwebassets\\Images\\b3afbfa2-04d6-46e7-b5f6-abdafce3c592.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\ca86678c-dd83-44b6-99d3-ec81843d7d37.png",
+      "PackagePath": "staticwebassets\\Images\\ca86678c-dd83-44b6-99d3-ec81843d7d37.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\d283b256-bbdd-4a1b-a3d6-7c20946567f8.png",
+      "PackagePath": "staticwebassets\\Images\\d283b256-bbdd-4a1b-a3d6-7c20946567f8.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\da283971-6209-4f8b-8a38-97ae86a0c63f.png",
+      "PackagePath": "staticwebassets\\Images\\da283971-6209-4f8b-8a38-97ae86a0c63f.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\e1ad6752-02f2-4ea6-8a4d-3a84dd18fe70.png",
+      "PackagePath": "staticwebassets\\Images\\e1ad6752-02f2-4ea6-8a4d-3a84dd18fe70.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\ea8f4cf6-3b92-4312-91c4-0b7caf3baebc.png",
+      "PackagePath": "staticwebassets\\Images\\ea8f4cf6-3b92-4312-91c4-0b7caf3baebc.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\ef4e4d8b-c9ff-4cca-963c-6669438e6468.png",
+      "PackagePath": "staticwebassets\\Images\\ef4e4d8b-c9ff-4cca-963c-6669438e6468.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\f5e2f20b-0788-4e38-a2fd-5dc4239f2cf9.png",
+      "PackagePath": "staticwebassets\\Images\\f5e2f20b-0788-4e38-a2fd-5dc4239f2cf9.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\Images\\ffdc40c0-9913-417e-9497-9c0392d95ead.png",
+      "PackagePath": "staticwebassets\\Images\\ffdc40c0-9913-417e-9497-9c0392d95ead.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BADProject.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BADProject.WebUI.props",
+      "PackagePath": "build\\BADProject.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BADProject.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\BADProject.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BADProject.WebUI.props",
+      "PackagePath": "buildTransitive\\BADProject.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

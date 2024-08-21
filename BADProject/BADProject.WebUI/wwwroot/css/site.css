@@ -1,0 +1,96 @@
+html {
+    position: relative;
+    min-height: 100%;
+    font-size: 14px;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+
+.anime-card {
+    border: 2px solid #808080;
+    box-shadow: 0 12px 5px rgb(169,169,169);
+    transition: box-shadow 0.3s ease-in-out;
+    height: 100%;
+}
+
+.anime-card img {
+    width: 100%;
+    height: 500px; 
+    object-fit:contain; 
+    padding:10px;
+}
+
+.anime-card:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+.card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.genre {
+    font-weight: bold;
+    color: #444;
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+
+.review-rating {
+    color: #ddd; 
+    font-size: 1.5em;
+    cursor: pointer;
+    transition: transform 0.3s ease-out;
+}
+
+.star-rating {
+    color: #ddd;
+    font-size: 1.5em;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.star-rating:hover {
+    transform: scale(1.1);
+}
+
+
+.icons-container {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+}
+.button-spacing {
+    margin-left: 10px;
+}

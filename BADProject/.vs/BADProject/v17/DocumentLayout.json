@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|c:\\users\\manojm\\desktop\\school\\bad\\badproject\\badproject.webui\\controllers\\animecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|solutionrelative:badproject.webui\\controllers\\animecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|c:\\users\\manojm\\desktop\\school\\bad\\badproject\\badproject.webui\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|solutionrelative:badproject.webui\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|c:\\users\\manojm\\desktop\\school\\bad\\badproject\\badproject.webui\\views\\anime\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|solutionrelative:badproject.webui\\views\\anime\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|c:\\users\\manojm\\desktop\\school\\bad\\badproject\\badproject.webui\\views\\animelist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|solutionrelative:badproject.webui\\views\\animelist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|c:\\users\\manojm\\desktop\\school\\bad\\badproject\\badproject.webui\\views\\animelist\\animelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|solutionrelative:badproject.webui\\views\\animelist\\animelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|c:\\users\\manojm\\desktop\\school\\bad\\badproject\\badproject.webui\\models\\viewmodels\\animeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|solutionrelative:badproject.webui\\models\\viewmodels\\animeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922E9A07-C993-4F5D-BA2A-8A53698EED79}|BADProject.Infrastructure\\BADProject.Infrastructure.csproj|c:\\users\\manojm\\desktop\\school\\bad\\badproject\\badproject.infrastructure\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922E9A07-C993-4F5D-BA2A-8A53698EED79}|BADProject.Infrastructure\\BADProject.Infrastructure.csproj|solutionrelative:badproject.infrastructure\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922E9A07-C993-4F5D-BA2A-8A53698EED79}|BADProject.Infrastructure\\BADProject.Infrastructure.csproj|c:\\users\\manojm\\desktop\\school\\bad\\badproject\\badproject.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922E9A07-C993-4F5D-BA2A-8A53698EED79}|BADProject.Infrastructure\\BADProject.Infrastructure.csproj|solutionrelative:badproject.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1899EC3-3D2C-462F-91E1-BAC9665BA758}|BADProject.Domain\\BADProject.Domain.csproj|c:\\users\\manojm\\desktop\\school\\bad\\badproject\\badproject.domain\\entities\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1899EC3-3D2C-462F-91E1-BAC9665BA758}|BADProject.Domain\\BADProject.Domain.csproj|solutionrelative:badproject.domain\\entities\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|c:\\users\\manojm\\desktop\\school\\bad\\badproject\\badproject.webui\\views\\anime\\addanime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|solutionrelative:badproject.webui\\views\\anime\\addanime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|c:\\users\\manojm\\desktop\\school\\bad\\badproject\\badproject.webui\\controllers\\animelistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|solutionrelative:badproject.webui\\controllers\\animelistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|c:\\users\\manojm\\desktop\\school\\bad\\badproject\\badproject.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|solutionrelative:badproject.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|c:\\users\\manojm\\desktop\\school\\bad\\badproject\\badproject.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F30F6C2-1360-463D-89C0-1015A248A76B}|BADProject.WebUI\\BADProject.WebUI.csproj|solutionrelative:badproject.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922E9A07-C993-4F5D-BA2A-8A53698EED79}|BADProject.Infrastructure\\BADProject.Infrastructure.csproj|c:\\users\\manojm\\desktop\\school\\bad\\badproject\\badproject.infrastructure\\migrations\\20240617220237_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922E9A07-C993-4F5D-BA2A-8A53698EED79}|BADProject.Infrastructure\\BADProject.Infrastructure.csproj|solutionrelative:badproject.infrastructure\\migrations\\20240617220237_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.Infrastructure\\Migrations\\20240617220056_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BADProject.Infrastructure\\Migrations\\20240617220056_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.Infrastructure\\Migrations\\20240617215917_reviewSeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BADProject.Infrastructure\\Migrations\\20240617215917_reviewSeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 819,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "BADProject.WebUI\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "BADProject.WebUI\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAqwDcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:24:39.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Views\\AnimeList\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BADProject.WebUI\\Views\\AnimeList\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Views\\AnimeList\\Edit.cshtml",
+              "RelativeToolTip": "BADProject.WebUI\\Views\\AnimeList\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T16:31:07.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimeList.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Views\\AnimeList\\AnimeList.cshtml",
+              "RelativeDocumentMoniker": "BADProject.WebUI\\Views\\AnimeList\\AnimeList.cshtml",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Views\\AnimeList\\AnimeList.cshtml",
+              "RelativeToolTip": "BADProject.WebUI\\Views\\AnimeList\\AnimeList.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAEEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T16:30:47.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Review.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Views\\Anime\\Review.cshtml",
+              "RelativeDocumentMoniker": "BADProject.WebUI\\Views\\Anime\\Review.cshtml",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Views\\Anime\\Review.cshtml",
+              "RelativeToolTip": "BADProject.WebUI\\Views\\Anime\\Review.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T16:30:32.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.Infrastructure\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BADProject.Infrastructure\\Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.Infrastructure\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "BADProject.Infrastructure\\Identity\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:30:28.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Models\\ViewModels\\AnimeViewModel.cs",
+              "RelativeDocumentMoniker": "BADProject.WebUI\\Models\\ViewModels\\AnimeViewModel.cs",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Models\\ViewModels\\AnimeViewModel.cs",
+              "RelativeToolTip": "BADProject.WebUI\\Models\\ViewModels\\AnimeViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:30:27.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddAnime.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Views\\Anime\\AddAnime.cshtml",
+              "RelativeDocumentMoniker": "BADProject.WebUI\\Views\\Anime\\AddAnime.cshtml",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Views\\Anime\\AddAnime.cshtml",
+              "RelativeToolTip": "BADProject.WebUI\\Views\\Anime\\AddAnime.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T10:30:22.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnimeListController.cs",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Controllers\\AnimeListController.cs",
+              "RelativeDocumentMoniker": "BADProject.WebUI\\Controllers\\AnimeListController.cs",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Controllers\\AnimeListController.cs",
+              "RelativeToolTip": "BADProject.WebUI\\Controllers\\AnimeListController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:30:11.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimeController.cs",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Controllers\\AnimeController.cs",
+              "RelativeDocumentMoniker": "BADProject.WebUI\\Controllers\\AnimeController.cs",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Controllers\\AnimeController.cs",
+              "RelativeToolTip": "BADProject.WebUI\\Controllers\\AnimeController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAG0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:29:54.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "BADProject.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Program.cs",
+              "RelativeToolTip": "BADProject.WebUI\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:26:36.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BADProject.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BADProject.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T10:25:58.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240617220237_initial.cs",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.Infrastructure\\Migrations\\20240617220237_initial.cs",
+              "RelativeDocumentMoniker": "BADProject.Infrastructure\\Migrations\\20240617220237_initial.cs",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.Infrastructure\\Migrations\\20240617220237_initial.cs",
+              "RelativeToolTip": "BADProject.Infrastructure\\Migrations\\20240617220237_initial.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAgwIEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:02:37.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240617220056_initial.cs",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.Infrastructure\\Migrations\\20240617220056_initial.cs",
+              "RelativeDocumentMoniker": "BADProject.Infrastructure\\Migrations\\20240617220056_initial.cs",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.Infrastructure\\Migrations\\20240617220056_initial.cs",
+              "RelativeToolTip": "BADProject.Infrastructure\\Migrations\\20240617220056_initial.cs",
+              "ViewState": "AQIAAPEAAAAAAAAAAAAgwAgBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:00:56.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240617215917_reviewSeedData.cs",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.Infrastructure\\Migrations\\20240617215917_reviewSeedData.cs",
+              "RelativeDocumentMoniker": "BADProject.Infrastructure\\Migrations\\20240617215917_reviewSeedData.cs",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.Infrastructure\\Migrations\\20240617215917_reviewSeedData.cs",
+              "RelativeToolTip": "BADProject.Infrastructure\\Migrations\\20240617215917_reviewSeedData.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:59:17.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reviews.cs",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.Domain\\Entities\\Reviews.cs",
+              "RelativeDocumentMoniker": "BADProject.Domain\\Entities\\Reviews.cs",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.Domain\\Entities\\Reviews.cs",
+              "RelativeToolTip": "BADProject.Domain\\Entities\\Reviews.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:27:55.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BADProject.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ManojM\\Desktop\\school\\BAD\\BADProject\\BADProject.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BADProject.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAQwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:26:41.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

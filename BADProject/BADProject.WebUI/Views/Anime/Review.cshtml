@@ -1,0 +1,91 @@
+﻿@using System.Security.Claims
+@using Microsoft.AspNetCore.Authorization
+@inject IAuthorizationService AuthorizationService
+@model BADProject.WebUI.Models.ViewModels.AnimeViewModel
+@{
+    ViewData["Title"] = "Review";
+}
+@using BADProject.Domain.Entities
+<h1>Review</h1>
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-12 mb-4">
+            <div class="card anime-card">
+                <img src="@Url.Content("~/Images/" + Model.ImageURL)" alt="Image for @Model.Title" class="card-img-top">
+                <div class="card-body">
+                    <h2 class="card-title">@Model.Title</h2>
+                    <p class="card-text">@Model.Description</p>
+                    <p class="genre"><strong>Genre:</strong> @Model.GenreName</p>
+                    <div class="icons-container">
+                        <div class="review-rating">
+                            @for (int i = 1; i <= 5; i++)
+                            {
+                                <span class="star" style="color: @(i <= Model.AverageRating ? "gold" : "gray");">&#9733;</span>
+                            }
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-8 reviews-section">
+                            <h3>Reviews</h3>
+                            @foreach (var review in Model.Reviews)
+                            {
+                                <div class="review-item p-3 mb-2">
+                                    <span><i class="fas fa-user-circle"></i> @review.UserName</span>
+                                    <div class="icons-container d-flex align-items-center">
+                                        <span>@review.DateTime.ToString("dd MMM yyyy")</span>
+                                        @if (User.Identity.IsAuthenticated && review.UserId == User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier)?.Value || (await AuthorizationService.AuthorizeAsync(User, null, "CanManageCatalog")).Succeeded)
+                                        {
+                                            <form asp-controller="Anime" asp-action="DeleteReview" method="post" style="display: inline;">
+                                                @Html.AntiForgeryToken()
+                                                <input type="hidden" name="id" value="@review.Id" />
+                                                <input type="hidden" name="animeId" value="@Model.Id" />
+                                                <button type="submit" class="btn btn-danger btn-sm button-spacing"><i class="fas fa-trash"></i> Delete</button>
+                                            </form>
+                                        }
+
+                                    </div>
+                                    <div class="review-rating">
+                                        @for (int i = 1; i <= 5; i++)
+                                        {
+                                            <span  style="color: @(i <= review.Rating ? "gold" : "gray");">&#9733;</span>
+                                        }
+                                    </div>
+                                    <div class="review-content mt-2">
+                                        @review.Review
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                        <div class="col-md-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h3 class="card-title">Write a review</h3>
+                                    <form asp-controller="Anime" asp-action="AddReview" method="post">
+                                        @Html.AntiForgeryToken()
+                                        <input type="hidden" name="animeId" value="@Model.Id" /> 
+                                        <div class="form-group">
+                                            <label for="rating">Rating:</label>
+                                            <select class="form-control" id="rating" name="rating">
+                                                <option value="1">1 Star</option>
+                                                <option value="2">2 Stars</option>
+                                                <option value="3">3 Stars</option>
+                                                <option value="4">4 Stars</option>
+                                                <option value="5">5 Stars</option>
+                                            </select>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="review">Review:</label>
+                                            <textarea class="form-control" id="review" name="review" rows="3"></textarea>
+                                        </div>
+                                        <button type="submit" class="btn btn-primary">Submit</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
